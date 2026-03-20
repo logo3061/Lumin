@@ -7,12 +7,10 @@ import json
 import os
 import asyncio
 import logging
-from dotenv import load_dotenv
 
 # ----------------------------
 # Load Token aus .env (push-sicher)
 # ----------------------------
-load_dotenv()
 TOKEN = "MTQ4NDYxODYxMTYwNjk1MDA1OQ.Gn1bDi.UP8e0hYxFnhg3x1Gk1jQA0mNJmjx0O-3DY7JAI"  # GitHub scannt nichts
 
 # ----------------------------
