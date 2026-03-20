@@ -17,3 +17,7 @@
 2026-03-20 20:02:22,845 [INFO] Thread 'Devlog 20.03.2026' gelockt & archiviert ✅
 2026-03-20 20:02:27,284 [WARNING] Fehlende Rechte für Thread-Permissions, überspringe.
 2026-03-20 20:02:27,286 [INFO] Daily Post erstellt: 'Devlog 20.03.2026' (ID: 1484628183209738301) ✅
+2026-03-20 20:11:27,002 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-20 20:11:27,003 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-20 20:11:27,004 [WARNING] Privileged message content intent is missing, commands may not work as expected.
+2026-03-20 20:11:27,004 [INFO] logging in using static token
