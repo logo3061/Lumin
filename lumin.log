@@ -21,3 +21,11 @@
 2026-03-20 20:11:27,003 [WARNING] davey is not installed, voice will NOT be supported
 2026-03-20 20:11:27,004 [WARNING] Privileged message content intent is missing, commands may not work as expected.
 2026-03-20 20:11:27,004 [INFO] logging in using static token
+2026-03-20 20:44:55,185 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-20 20:44:55,185 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-20 20:44:55,187 [INFO] logging in using static token
+2026-03-20 20:44:55,187 [WARNING] Privileged message content intent is missing, commands may not work as expected.
+2026-03-20 20:44:56,268 [INFO] Shard ID None has connected to Gateway (Session ID: 7da8b07a6671d4cbf37028ced83f5dfc).
+2026-03-20 20:44:58,279 [INFO] Eingeloggt als Lumin#9632 (ID: 1484618611606950059)
+2026-03-20 20:44:58,280 [INFO] /test existiert bereits, skip.
+2026-03-20 20:44:58,282 [INFO] Heute bereits gepostet ✅
