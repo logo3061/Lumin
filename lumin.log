@@ -1,0 +1,9 @@
+2026-03-20 20:01:44,441 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-20 20:01:44,441 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-20 20:01:44,442 [WARNING] Privileged message content intent is missing, commands may not work as expected.
+2026-03-20 20:01:44,442 [INFO] logging in using static token
+2026-03-20 20:01:45,362 [INFO] Shard ID None has connected to Gateway (Session ID: e790a80f157fe7e48631166c5d8f2dd6).
+2026-03-20 20:01:47,375 [INFO] Eingeloggt als Lumin#9632 (ID: 1484618611606950059)
+2026-03-20 20:01:47,378 [INFO] /test existiert bereits in JSON, überspringe.
+2026-03-20 20:01:50,074 [WARNING] Fehlende Rechte für Thread-Permissions, überspringe.
+2026-03-20 20:01:50,075 [INFO] Daily Post erstellt: 'Devlog 20.03.2026' (ID: 1484628037168529541) ✅
