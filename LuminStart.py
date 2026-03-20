@@ -5,6 +5,9 @@ from datetime import datetime
 import json
 import os
 import logging
+from dotenv import load_dotenv
+
+load_dotenv()  # Lädt .env lokal; auf Render wird das ignoriert (env vars direkt gesetzt)
 
 # ─────────────────────────────────────────
 #  Config
