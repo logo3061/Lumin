@@ -1,0 +1,24 @@
+services:
+  - type: worker          # Kein HTTP-Server nötig → worker
+    name: lumin-bot
+    runtime: python
+    region: frankfurt     # EU-Region für niedrigere Latenz
+    plan: free            # "starter" für paid plan
+
+    buildCommand: pip install -r requirements.txt
+    startCommand: python LuminStart.py
+
+    envVars:
+      - key: DISCORD_TOKEN
+        sync: false       # Wird manuell im Render Dashboard gesetzt (nie committen!)
+      - key: FORUM_CHANNEL_ID
+        value: "1484443811181756466"
+      - key: GUILD_ID
+        value: "1483894598102290533"
+      - key: DATA_DIR
+        value: "/data"
+
+    disk:
+      name: lumin-data
+      mountPath: /data    # Persistenter Speicher → bot_data.json & logs überleben Restarts
+      sizeGB: 1

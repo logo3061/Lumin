@@ -1,0 +1,15 @@
+# Secrets – niemals committen!
+.env
+*.env
+
+# Generierte Dateien
+output.png
+lumin.log
+bot_data.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
